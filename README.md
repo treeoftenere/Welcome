@@ -26,7 +26,7 @@ Comfortable with basic coding? Dive in to the [Tenere](https://github.com/treeof
 
 Dive in, the leaves are warm: <https://github.com/treeoftenere/Tenere>
 
-![Tenere LX](tenere-lx.jpg)
+[![Tenere LX](tenere-lx.jpg)](https://github.com/treeoftenere/Tenere)
 
 #### For Non-Coders - [Stellar](https://github.com/treeoftenere/Stellar)
 
