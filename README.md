@@ -42,11 +42,11 @@ Are you a low-level hacker? Does your brain scan right over "Rasperry Pi" withou
 * Heart-rate and heart-beat sensing
 * EEG analysis using Muse headband
 
-If there's another hardware sensor you're familiar with, we'd love for you to help integrate it!
+If there's another hardware sensor you're familiar with, we'd love for you to help integrate it! A reference for OSC-based sensor integrations can be seen [here](https://github.com/treeoftenere/Tenere/blob/master/Tenere/Sensors.pde).
 
 ### Blockchain
 
-We plan to integrate blockchain support into our core systems, so that the performance and use of visual content on the tree is fairly and transparently recorded. Think of Ténéré as a giant jukebox - but instead of songs, it's filled with patterns of beautiful light, created by many different artists. Much like a song, each of these patterns is in itself a work of art - and each time it is shared we can securely track credit for the responsible artists.
+We plan to integrate blockchain support into our core systems, so that the performance and use of visual content on the tree is fairly and transparently recorded. Think of Ténéré as a giant jukebox - but instead of songs, it's filled with patterns of beautiful light, created by many different artists. Much like a song, each of these patterns is in itself a work of art - and each time it is shared we can securely track credit for the responsible artists and coders.
 
 Well-versed in blockchain technology? Get in touch with Patrick Deegan to help coordinate this effort: pdeegan@gmail.com
 
