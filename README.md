@@ -5,7 +5,7 @@ Welcome to the Ténéré technology platform. We're glad you're here!
 Ténéré is a dazzling, lifelike tree with 25,000 LED leaves - an an interactive and collaborative artwork built on an open technology platform. It will make its debut at the 2017 Burning Man Festival in Black Rock City, NV.
 
 * [Official Project Site](https://www.treeoftenere.com/)
-* [Support Ténéré on Indiegogo](https://www.indiegogo.com/projects/tree-of-tenere-debuting-at-burning-man-2017-art#/)
+* [Support Ténéré on Indiegogo](https://www.indiegogo.com/projects/tree-of-tenere-burning-man-2017-and-beyond-art)
 
 ## Get Involved
 
