@@ -34,7 +34,7 @@ Interested in experimenting with artistic content for Ténéré, but not so comf
 
 Swing on by: <https://github.com/treeoftenere/Stellar>
 
-### Systems + Sensors
+### [Systems + Sensors](https://github.com/treeoftenere/Interactivity)
 
 Are you a low-level hacker? Does your brain scan right over "Rasperry Pi" without even contemplating dessert? Do you love sets of 3 letters like SPI, DMA, OSC, or OPC? Fantastic! The Ténéré systems employ a distributed network of branch controllers to drive LED output and take input from sensors. The platform is designed to accomodate a wide variety of inputs.
 
@@ -43,6 +43,8 @@ Are you a low-level hacker? Does your brain scan right over "Rasperry Pi" withou
 * EEG analysis using Muse headband
 
 If there's another hardware sensor you're familiar with, we'd love for you to help integrate it! A reference for OSC-based sensor integrations can be seen [here](https://github.com/treeoftenere/Tenere/blob/master/Tenere/Sensors.pde).
+
+See how to set up your own Raspberry Pi and start streaming data for real-time [interactions with Ténéré](https://github.com/treeoftenere/Interactivity)
 
 ### Blockchain
 
